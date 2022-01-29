@@ -1,0 +1,47 @@
+body{
+    background-color: #222;
+    color: white;
+}
+.card{
+    background-color: #343a40;
+    color: white;
+}
+.fa-laravel{
+    font-size: 25px;
+}
+.fa-eye{
+    color: rgb(214, 194, 16);
+    font-size: 18px;
+    transition: all 0.3s;
+}
+.fa-eye:hover{
+    color: rgb(216, 144, 10);
+    font-size: 18px;
+}
+.fa-trash-alt{
+    color: rgb(240, 33, 18);
+    font-size: 18px;
+    transition: all 0.3s;
+}
+.fa-trash-alt:hover{
+    color: rgb(187, 5, 5);
+    font-size: 18px;
+}
+.fa-edit{
+    color: rgb(18, 107, 240);
+    font-size: 18px;
+    transition: all 0.3s;
+}
+.fa-edit:hover{
+    color: rgb(5, 38, 187);
+    font-size: 18px;
+}
+.fa-cloud-download-alt{
+    color: rgb(18, 240, 155);
+    font-size: 18px;
+    transition: all 0.3s;
+}
+.fa-cloud-download-alt:hover{
+    color: rgb(5, 187, 141);
+    font-size: 18px;
+}
